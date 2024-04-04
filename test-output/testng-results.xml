@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T18:00:09 GST" name="Default suite" finished-at="2024-04-02T18:00:20 GST" duration-ms="11354">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T18:00:09 GST" name="Default test" finished-at="2024-04-02T18:00:20 GST" duration-ms="11354">
+      <class name="Testpkg.Angrakhaahometest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testpkg.Angrakhaahometest@2ddc9a9f]" started-at="2024-04-02T18:00:09 GST" name="setup" finished-at="2024-04-02T18:00:16 GST" duration-ms="6774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="atitleverification()[pri:0, instance:Testpkg.Angrakhaahometest@2ddc9a9f]" started-at="2024-04-02T18:00:16 GST" name="atitleverification" finished-at="2024-04-02T18:00:16 GST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atitleverification -->
+        <test-method signature="hamburgermenu()[pri:0, instance:Testpkg.Angrakhaahometest@2ddc9a9f]" started-at="2024-04-02T18:00:16 GST" name="hamburgermenu" finished-at="2024-04-02T18:00:17 GST" duration-ms="1364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hamburgermenu -->
+        <test-method signature="logoverification()[pri:0, instance:Testpkg.Angrakhaahometest@2ddc9a9f]" started-at="2024-04-02T18:00:17 GST" name="logoverification" finished-at="2024-04-02T18:00:18 GST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoverification -->
+        <test-method signature="searchitem()[pri:0, instance:Testpkg.Angrakhaahometest@2ddc9a9f]" started-at="2024-04-02T18:00:18 GST" name="searchitem" finished-at="2024-04-02T18:00:20 GST" duration-ms="2790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchitem -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testpkg.Angrakhaahometest@2ddc9a9f]" started-at="2024-04-02T18:00:20 GST" name="teardown" finished-at="2024-04-02T18:00:20 GST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testpkg.Angrakhaahometest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
